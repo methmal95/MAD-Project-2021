@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889159710908",
+    "project_id": "booking-mate-14ea2",
+    "storage_bucket": "booking-mate-14ea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889159710908:android:e5b8a77217a6bfa646b8b9",
+        "android_client_info": {
+          "package_name": "com.example.bookingmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889159710908-ipd1o4p0ll5ji9d9i1dv2marjsgvukd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqcKw21CmTZIdkPwKzTFev8KiW0WljbIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889159710908-ipd1o4p0ll5ji9d9i1dv2marjsgvukd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
